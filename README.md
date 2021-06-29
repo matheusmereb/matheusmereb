@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmereb&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusmereb" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusmereb&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark" alt="matheusmereb" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=matheusmereb)](https://github.com/matheusmereb/github-profile-trophy)
 
 <h3 align="left">If you like my work, please consider supporting me!:</h3>
 <p><a href="https://www.buymeacoffee.com/matheusmereb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="matheusmereb" /></a></p><br><br>
